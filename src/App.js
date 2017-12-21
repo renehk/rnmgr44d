@@ -9,12 +9,12 @@ import Router from './Router';
 class App extends Component {
   componentWillMount() {
     const config = {
-      apiKey: 'AIzaSyAsoOSMwEkacwEgwEvU9KMY_hvkVw-w2Zg',
-      authDomain: 'rnmgr44.firebaseapp.com',
-      databaseURL: 'https://rnmgr44.firebaseio.com',
-      projectId: 'rnmgr44',
+      apiKey: 'yAsUEgwEvAKMY_hIzaS9vkVw-w2ZgoOSMwEkacw',
+      authDomain: '.firebaseapp.com',
+      databaseURL: 'https://aa.firebaseio.com',
+      projectId: 'aa',
       storageBucket: '',
-      messagingSenderId: '619762791271'
+      messagingSenderId: '999999999999999'
     };
 
     firebase.initializeApp(config);
